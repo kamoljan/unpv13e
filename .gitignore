@@ -31,3 +31,11 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Clion
+.idea/
+CMakeLists.txt
+cmake-build-debug
+
+# Emacs
+*~
